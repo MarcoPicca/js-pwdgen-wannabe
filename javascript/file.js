@@ -10,7 +10,7 @@ let laPasswordPiùInsicura = firstName + lastName + favoriteColor;
 
 
 
-document.getElementById('insicurissimaPassword').innerHTML = 'La password meno utilizzabile nella storia del web è ' + laPasswordPiùInsicura + '21';
+document.getElementById('insicurissimaPassword').innerHTML = laPasswordPiùInsicura + '21';
 
 
 
